@@ -1,4 +1,4 @@
-# 💼 Personal Finance Advisor - Data-Driven Analysis of Income, Expenses & Savings
+# Personal Finance Advisor - Data-Driven Analysis of Income, Expenses & Savings
 
 Personal Finance Advisor is a Python-based project to analyze income, expenses, and savings. It helps identify overspending areas and provides recommendations to improve financial stability.
 
@@ -24,7 +24,7 @@ Personal Finance Advisor is a Python-based project to analyze income, expenses, 
 ---
 
 ## Project Structure
-
+```
 Personal_Finance_Advisor/
 ├── README.md → Project documentation
 ├── requirements.txt → Required Python libraries
@@ -37,7 +37,7 @@ Personal_Finance_Advisor/
 │ └── Updated_Financial_Data.csv → Final dataset with calculated columns
 ├── report/
 │ └── Personal_Finance_Advisor.pdf → Final project report
-
+```
 ---
 
 ## Dataset Overview
@@ -67,5 +67,3 @@ Personal_Finance_Advisor/
 - Reduce expenses in high-spending categories  
 - Personalized financial planning based on occupation and city tier  
 - Use data-driven insights to improve financial stability  
-
-This project demonstrates how Python and data analytics can be used to empower in
